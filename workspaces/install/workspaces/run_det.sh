@@ -1,0 +1,1 @@
+./infer -f yolov8s.plan -i test/bus.jpg -c 100 -o result -t yolov8_det
